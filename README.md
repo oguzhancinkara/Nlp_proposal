@@ -1,7 +1,7 @@
 # Nlp_proposal
-#Text-Mining From Universities' Web Pages 
+#Text-Mining From Movie Web Pages 
 #Text Categorization
 #Proposal
-For people who graduated from university and wants to do master degree, it's good to know which universities are most popular in Turkey.My project aim is to find out which universities are popular from  universities' academical staff pages which includes informations about people in the universities(like where they graduated from,where they did their master degree etc.)
+This project aims to collect informations about top movies. There are multiple movie web sites(like imdb,sinemalar etc.) and this project is about to combine informations from multiple web sites about the same movie. Like one movie in imdb could get lower point from users but the same movie could get higher points from other web sites, in this project points will be united with the movie genres.After that popularity of movies will be shown with graphical box plots. 
 
-Python will be used for fetching informations from web sites.The project will focused on department of computer engineering of engineering faculities.
+Python and beutifulsoap will be used for fetching informations from web sites.
